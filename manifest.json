@@ -1,0 +1,25 @@
+{
+  "name": "OllaGM Recetario",
+  "short_name": "OllaGM",
+  "description": "1000 recetas para Olla GM",
+  "start_url": "./recetas_ollagm.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0f0800",
+  "theme_color": "#1a0a00",
+  "lang": "es",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
